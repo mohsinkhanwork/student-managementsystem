@@ -1,0 +1,19 @@
+.one {
+    padding: 1px;
+    width: 50%;
+    border-style: solid;
+
+    
+}
+
+.two {
+    text-align: left;
+}
+
+.three {
+    text-align: left;
+}
+
+td, th {
+    padding: 5px;
+}

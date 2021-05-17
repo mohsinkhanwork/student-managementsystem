@@ -1,0 +1,16 @@
+.admintitle {
+
+    background-color: brown;
+    line-height: 120px;
+    text-align: center;
+}
+
+.dashboard {
+    background-color:azure;
+    height: 120px;
+    
+}
+
+.body {
+    background-color:azure;
+}

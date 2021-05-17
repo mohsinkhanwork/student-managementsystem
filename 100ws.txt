@@ -1,0 +1,39 @@
+cpanel: https://cp.100ws.com/ftp/
+
+database name: sms
+username: mohkha71_
+data bass pass:MohsKeh123_$
+
+full: mohkha71_sms
+
+
+web name: student-manangement-system.com
+
+phpmyadmin: https://cp.100ws.com/pma/index.php?lang=en
+
+
+detail: https://cp.100ws.com/statistics/server-information/
+
+
+ftp account:
+
+db for this site: <?php   
+
+$con = mysqli_connect("localhost","mohkha71_sms","MohsKeh123_$","mohkha71_sms");
+
+if(!$con){
+    echo "connection failed";
+}
+
+
+
+
+
+
+
+
+
+?>
+
+
+
